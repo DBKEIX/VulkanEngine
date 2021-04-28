@@ -1,0 +1,1 @@
+-IC:/Users/dbkei/CLionProjects/VulkanProject/lib/stb -IC:/Users/dbkei/CLionProjects/VulkanProject/lib/tinyobjloader -IC:/Users/dbkei/CLionProjects/VulkanProject/lib/glfw/include -IC:/Users/dbkei/CLionProjects/VulkanProject/lib/glm/.. -isystem C:/VulkanSDK/1.2.162.1/Include

@@ -1,0 +1,1 @@
+-IC:/Users/dbkei/CLionProjects/VulkanProject/lib/stb -IC:/Users/dbkei/CLionProjects/VulkanProject/lib/tinyobjloader -IC:/Users/dbkei/CLionProjects/VulkanProject/lib/glfw/include -IC:/Users/dbkei/CLionProjects/VulkanProject/lib/glfw/src -IC:/Users/dbkei/CLionProjects/VulkanProject/cmake-build-debug-mingw_clang/lib/glfw/src
